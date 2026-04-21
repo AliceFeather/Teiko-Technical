@@ -36,4 +36,4 @@ The `load_data.py` is the loading layer which reads raw CSVs, clean headers and 
 
 ## Dashboard Link
 When running in GitHub Codespaces, the dashboard will be available at the local address provided in the terminal if the below link do not work:
-**[Local Dashboard Link](http://127.0.0.1:8050)**
+**http://127.0.0.1:8050**

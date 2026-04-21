@@ -1,6 +1,3 @@
-# Teiko-Technical
-Teiko Technical Problem Solution
-
 # Clinical Trial Analysis Pipeline
 
 ## How to Run and Reproduce Results

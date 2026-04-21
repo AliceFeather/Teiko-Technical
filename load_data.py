@@ -21,7 +21,7 @@ def load_data():
 
         CREATE TABLE IF NOT EXISTS samples (
             sample_id TEXT PRIMARY KEY,
-            patient_id TEXT,
+            subject_id TEXT,
             project TEXT,
             condition TEXT,
             treatment TEXT,
